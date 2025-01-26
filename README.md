@@ -4,7 +4,9 @@
 
 - ⚡ Fun fact: I am pursuing a career in commercial real estate investment.
 ### Technical Skills
-- 
+- Python
+- Excel
+- Argus
 
 <br />
 <br />
