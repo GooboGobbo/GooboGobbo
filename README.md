@@ -18,25 +18,6 @@
 
 <br />
 <br />
-
-
-### 📕 Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Prediction of Stochastic Clogging Processes](https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb)
-- [English Language Translation with Transformers (Neural Networks + Attention)](https://github.com/Franjcf/Data-Science-Projects/blob/main/language_translation_transformers/Transformer.ipynb)
-- [Simulation of Multiphase Flow in Deformable Porous Media](https://github.com/Franjcf/hybridBiotInterFoam)
-- [Fine-Tuning BERT for Sentiment Analysis](https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_BERT/sentiment_analysis_BERT.ipynb)
-- [Simulation of Multiphase Flow at Multiple Scales](https://github.com/Franjcf/hybridPorousInterFoam)
-- [Ethereum Price Prediction Using LSTMs](https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb)
-<!-- BLOG-POST-LIST:END -->
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[Email](mailto:franjcf@outlook.com)
-
-
 <br />
 
 ---
