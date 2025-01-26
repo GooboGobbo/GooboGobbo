@@ -1,6 +1,6 @@
 ### Hi there, I'm James Edge - aka [GooboGobbo][website] 👋
 
-[![Website](https://img.shields.io/website?label=franjcf.github.io&style=for-the-badge&url=https://franjcf.github.io//)](https://franjcf.github.io/)
+[![Website](https://img.shields.io/website?label=franjcf.github.io&style=for-the-badge&url=https://franjcf.github.io//)](https://www.linkedin.com/in/jamesdedge/)
 
 ## I'm a student-athlete at the University of Notre Dame!
 
