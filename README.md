@@ -3,7 +3,8 @@
 ## I'm a student-athlete at the University of Notre Dame!
 
 - ⚡ Fun fact: I am pursuing a career in commercial real estate investment.
-
+### Technical Skills
+- 
 
 <br />
 <br />
