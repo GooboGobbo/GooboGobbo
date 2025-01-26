@@ -8,6 +8,9 @@
 - Excel
 - Argus
 
+### Notable Projects
+- Currently No Coding Projects
+
 <br />
 <br />
 <br />
