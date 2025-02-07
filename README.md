@@ -19,7 +19,6 @@ I hope to learn more about how to display data effectively
 
 ### Contact Links
 [LinkedIn][website]
-[Email][email]
 
 ---
 
