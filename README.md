@@ -1,4 +1,4 @@
-# Hi there, I'm James Edge - aka [GooboGobbo] 👋
+# Hi there, I'm James Edge - aka [GooboGobbo][website] 👋
 
 ### I'm a student-athlete at the University of Notre Dame studying Finance
 ### I enjoy watching NBA, playing video games, and learning languages
