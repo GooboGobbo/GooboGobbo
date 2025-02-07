@@ -8,9 +8,11 @@ Fun fact: I am pursuing a career in commercial real estate investment.
 ### Notable Projects
 - Currently No Coding Projects
 <br />
-<br />
-
-### Current Projects
+### Skills
+- Python (Intermediate)
+- PowerBI (Beginner)
+- Excel (Intermediate)
+- Argus (Beginner
 
 
 <br />
