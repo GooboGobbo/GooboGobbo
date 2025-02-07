@@ -1,5 +1,5 @@
 # Hi there, I'm James Edge - aka [GooboGobbo][website] 👋
-![Image Alt](image_url)
+![Image Alt](https://github.com/GooboGobbo/GooboGobbo/blob/main/Headshot%20Best%201%20(1).png)
 ### I'm a student-athlete at the University of Notre Dame studying Finance
 ### I enjoy watching NBA, playing video games, and learning languages
 ### Fun fact: I am pursuing a career in commercial real estate investment.
