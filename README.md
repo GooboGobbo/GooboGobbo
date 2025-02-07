@@ -14,12 +14,15 @@ Fun fact: I am pursuing a career in commercial real estate investment.
 - Excel (Intermediate)
 - Argus (Beginner
 
+### Goals
+I hope to learn more about how to display data effectively
 
-<br />
-<br />
-<br />
+### Contact Links
+[LinkedIn][website]
+[Email][email]
 
 ---
 
 [website]: https://www.linkedin.com/in/jamesdedge/
+[email]: jedge@nd.edu
 
