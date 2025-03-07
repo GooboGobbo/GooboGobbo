@@ -5,6 +5,11 @@
 I'm a student-athlete at the University of Notre Dame studying Finance. I enjoy watching NBA, playing video games, and learning languages.  
 Fun fact: I am pursuing a career in commercial real estate investment.
 
+# 👨‍💻 My Coding Portfolio
+
+Welcome to my portfolio! Here, you'll find a selection of projects that showcase my skills in coding, data analysis, and web development. I’m passionate about turning raw data into meaningful insights and creating interactive applications. Below are my key projects.
+
+
 ### Notable Projects
 
 - 🏅 **[2008 Olympic Medalists - Tidy Data Project](https://github.com/GooboGobbo/TidyData-Project)**  
