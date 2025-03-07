@@ -11,7 +11,7 @@ Fun fact: I am pursuing a career in commercial real estate investment.
 - **Other**: Data visualization, Data cleaning, Financial modeling
 
 ### Goals
-I aim to expand my skills in data analysis, visualization, and web development while exploring how technology can be applied to finance and commercial real estate investment.
+I aim to expand my skills in data analysis while exploring how technology can be applied to finance and commercial real estate investment.
 
 # 👨‍💻 My Coding Portfolio
 
