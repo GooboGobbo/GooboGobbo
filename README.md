@@ -25,4 +25,4 @@ I aim to expand my skills in data analysis, visualization, and web development w
 ---
 
 [website]: https://www.linkedin.com/in/jamesdedge/  
-[email]: jedge@nd.edu
+[email]: www.gmail.com/jedge@nd.edu
