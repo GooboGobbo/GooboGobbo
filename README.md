@@ -7,7 +7,7 @@ Fun fact: I am pursuing a career in commercial real estate investment.
 
 # 👨‍💻 My Coding Portfolio
 
-Welcome to my portfolio! Here, you'll find a selection of projects that showcase my skills in coding, data analysis, and web development. I’m passionate about turning raw data into meaningful insights and creating interactive applications. Below are my key projects.
+Welcome to my portfolio! Here, you'll find a selection of projects that showcase my skills in coding and data analysis. I’m passionate about turning raw data into meaningful insights and creating interactive applications. Below are my key projects.
 
 
 ### Notable Projects
