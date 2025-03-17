@@ -13,16 +13,6 @@ Fun fact: I am pursuing a career in commercial real estate investment.
 ### Goals
 I aim to expand my skills in data analysis while exploring how technology can be applied to finance and commercial real estate investment.
 
-# 👨‍💻 My Coding Portfolio
-
-Welcome to my portfolio! Here, you'll find a selection of projects that showcase my skills in coding and data analysis. I’m passionate about turning raw data into meaningful insights and creating interactive applications. Below are my key projects.
-
-
-### Notable Projects
-
-- 🏅 **[2008 Olympic Medalists - Tidy Data Project](https://github.com/GooboGobbo/TidyData-Project)**  
-  In this project, I cleaned and visualized the 2008 Olympic medalist dataset using **tidy data principles**. I used **pandas** to restructure the dataset with the `melt()` function, split event names to extract gender and event details, and created pivot tables to show medal counts by event and gender. The project is fully interactive with **Streamlit**, where users can explore medalists, events, and gender-based medal counts. This project complements my overall coding portfolio by demonstrating my ability to work with raw data, apply data-cleaning techniques, and build interactive applications.
-
 
 ### Contact Links
 [LinkedIn][website]  
