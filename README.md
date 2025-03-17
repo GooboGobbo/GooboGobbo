@@ -26,7 +26,7 @@ Welcome to my portfolio! Here, you'll find a selection of projects that showcase
 
 ### Contact Links
 [LinkedIn][website]  
-Email: jedge@nd.edu
+jedge@nd.edu
 
 ---
 
