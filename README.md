@@ -22,7 +22,7 @@ I'm a student-athlete at the **University of Notre Dame** majoring in **Finance*
 |-----------|-------------|
 | 🇰🇷 [**Learn Korean: Mini Games Hub**](https://github.com/GooboGobbo/Edge-Python-Portfolio/tree/main/StreamlitAppFinal) | A beginner-friendly language learning app with 4 interactive Streamlit games: Hangul typing, vocabulary quiz, TypeRacer, and tense selector. Inspired by my Korean heritage and passion for language learning. |
 | 🧠 [**NER Streamlit App**](https://github.com/GooboGobbo/Edge-Python-Portfolio/tree/main/NERStreamlitApp) | A custom Named Entity Recognition (NER) app using spaCy + Streamlit. Supports user-defined entity rules, text uploads, and entity visualization. |
-| 🏅 [**2008 Olympic Medalists - Tidy Data Project**](https://github.com/GooboGobbo/TidyData-Project) | Data tidying and interactive exploration of Olympic medalists using pandas and Streamlit. Includes gender-based medal visualizations and athlete filters. |
+| 🏅 [**2008 Olympic Medalists - Tidy Data Project**](https://github.com/GooboGobbo/Edge-Python-Portfolio/tree/main/TidyData-Project) | Data tidying and interactive exploration of Olympic medalists using pandas and Streamlit. Includes gender-based medal visualizations and athlete filters. |
 | 🐧 [**Palmer's Penguins App**](https://github.com/GooboGobbo/Edge-Python-Portfolio/tree/main/basic-streamlit-app) | A basic Streamlit dashboard for exploring penguin data by species and body mass. Great intro to interactive filtering with real-world data. |
 
 ---
