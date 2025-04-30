@@ -37,7 +37,7 @@ I'm a student-athlete at the **University of Notre Dame** majoring in **Finance*
 
 ### 📬 Contact & Links
 
-- [LinkedIn →](https://www.linkedin.com/in/jamesdedge/)
+- [LinkedIn](https://www.linkedin.com/in/jamesdedge/)
 - ✉️ Email: [jedge@nd.edu](mailto:jedge@nd.edu)
 
 ---
